@@ -1,0 +1,88 @@
+/* 
+  Localizable.strings
+  PixcellWorking
+
+  Created by Nahar Alamoudi on 11/20/18.
+  Copyright © 2018 Pixcell Inc. All rights reserved.
+*/
+
+/* Account title 1 */
+"Ai" = "Account Info";
+
+/* Account title 2*/
+"Ah" = "Account History";
+
+/* Phone# cell */
+"Phone Number" = "Phone Number";
+
+/* Password cell */
+"Password" = "Password";
+
+/* Total Albums cell */
+"Total Albums Ordered" = "Total Albums Ordered";
+
+/* Donations Cell */
+"Total Donations" = "Total Donations";
+
+/* Settings Title */
+"Settings" = "Settings";
+
+/* Language Cell */
+"Change Language" = "Change Language";
+
+/* Terms Cell */
+"Terms & Conditions" = "Terms & Conditions";
+
+/* Privacy Cell */
+"Privacy Policy" = "Privacy Policy";
+
+/* Contact Cell */
+"Contact Us" = "Contact Us";
+
+/* FAQs Cell */
+"FAQs" = "FAQs";
+
+/* checkout button nav bar item*/
+"Checkout" = "Checkout";
+
+/* Cancel nav bar button */
+"Cancel" = "Cancel";
+
+// checkout alert notification
+"Checkout alert title" = "Checkout";
+
+// checkout message
+"Checkout message" = "Click albums to select them for checkout";
+
+// submit button left bar item
+"Submit" = "Submit";
+
+// proceed button
+"Proceed" = "Proceed";
+
+// name selection for album
+"Pick a name for your Album" = "Pick a name for your Album";
+
+// album name field
+"Enter Album Name Here" = "Enter Album Name Here";
+
+// confirm button
+"Confirm" = "Confirm";
+
+// save button
+"Save" = "Save";
+
+// nav bar item select images
+"Select Images" = "Select Images";
+
+// images selected notification
+"Images Selected" = "Images Selected";
+
+// option 1 for images selected notification
+"Yes I am Sure" = "Save";
+
+// option 2 for images selected notification
+"Return to image picker" = "Return to image picker";
+
+// message for images selected notification
+"message for images selected" = "Are you sure you want to upload the selected \(self.assets.count) images? If you click save this action cannot be undone.";

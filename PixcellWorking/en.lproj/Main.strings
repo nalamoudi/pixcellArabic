@@ -1,0 +1,258 @@
+
+/* Class = "UINavigationItem"; title = "Create Album"; ObjectID = "0Zd-7p-dft"; */
+"0Zd-7p-dft.title" = "Create Album";
+
+/* Class = "UILabel"; text = "Confirm New Password"; ObjectID = "29w-mv-ZTs"; */
+"29w-mv-ZTs.text" = "Confirm New Password";
+
+/* Class = "UIButton"; normalTitle = "Terms and Conditions"; ObjectID = "3b0-1S-Nbd"; */
+"3b0-1S-Nbd.normalTitle" = "Terms and Conditions";
+
+/* Class = "UILabel"; text = "Welcome to Pixcell"; ObjectID = "3bd-yv-Yee"; */
+"3bd-yv-Yee.text" = "Welcome to Pixcell";
+
+/* Class = "UILabel"; text = "Billing Address"; ObjectID = "4Qq-aK-qSU"; */
+"4Qq-aK-qSU.text" = "Billing Address";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "4WD-Ui-y7w"; */
+"4WD-Ui-y7w.placeholder" = "Email";
+
+/* Class = "UITabBarItem"; title = "Picture Picker"; ObjectID = "50n-vo-qPg"; */
+"50n-vo-qPg.title" = "Picture Picker";
+
+/* Class = "UIButton"; normalTitle = "IHYAA School Renovation"; ObjectID = "5oU-Yb-hZV"; */
+"5oU-Yb-hZV.normalTitle" = "IHYAA School Renovation";
+
+/* Class = "UITextView"; text = "To change your phone number, please modify it below and click save"; ObjectID = "69K-Vd-9QG"; */
+"69K-Vd-9QG.text" = "To change your phone number, please modify it below and click save";
+
+/* Class = "UILabel"; text = "Billing Information"; ObjectID = "6C9-x8-Z7H"; */
+"6C9-x8-Z7H.text" = "Billing Information";
+
+/* Class = "UINavigationItem"; title = "Pixcell"; ObjectID = "6Ol-Fe-LWN"; */
+"6Ol-Fe-LWN.title" = "Pixcell";
+
+/* Class = "UITextField"; placeholder = "Re-Enter Password"; ObjectID = "6TA-cQ-YLV"; */
+"6TA-cQ-YLV.placeholder" = "Re-Enter Password";
+
+/* Class = "UILabel"; text = "Static elements!"; ObjectID = "6es-Tj-P7P"; */
+"6es-Tj-P7P.text" = "Static elements!";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "7vq-XR-evR"; */
+"7vq-XR-evR.normalTitle" = "Forgot Password?";
+
+/* Class = "UILabel"; text = "+966"; ObjectID = "8A4-U2-2pZ"; */
+"8A4-U2-2pZ.text" = "+966";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9o5-QN-7D6"; */
+"9o5-QN-7D6.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "A1d-ZG-3tp"; */
+"A1d-ZG-3tp.normalTitle" = "Privacy Policy";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "AbO-qK-jwz"; */
+"AbO-qK-jwz.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AdX-8x-bm4"; */
+"AdX-8x-bm4.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "AkY-KA-5IB"; */
+"AkY-KA-5IB.title" = "Back";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Bqf-XM-g5J"; */
+"Bqf-XM-g5J.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "C8s-5X-T0S"; */
+"C8s-5X-T0S.placeholder" = "First Name";
+
+/* Class = "UIButton"; normalTitle = "UN Refugee Agency"; ObjectID = "DKg-R1-cTP"; */
+"DKg-R1-cTP.normalTitle" = "UN Refugee Agency";
+
+/* Class = "UILabel"; text = "Address:"; ObjectID = "ESs-v8-QnA"; */
+"ESs-v8-QnA.text" = "Address:";
+
+/* Class = "UISegmentedControl"; FxS-uV-ZER.segmentTitles[0] = "English"; ObjectID = "FxS-uV-ZER"; */
+"FxS-uV-ZER.segmentTitles[0]" = "English";
+
+/* Class = "UISegmentedControl"; FxS-uV-ZER.segmentTitles[1] = "عربي"; ObjectID = "FxS-uV-ZER"; */
+"FxS-uV-ZER.segmentTitles[1]" = "عربي";
+
+/* Class = "UINavigationItem"; title = "Change Phone Number"; ObjectID = "GGI-U9-Z6J"; */
+"GGI-U9-Z6J.title" = "Change Phone Number";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "GNC-sh-3LD"; */
+"GNC-sh-3LD.normalTitle" = "+";
+
+/* Class = "UINavigationItem"; title = "Account Details"; ObjectID = "GzH-cB-a0X"; */
+"GzH-cB-a0X.title" = "Account Details";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Iet-9R-DRM"; */
+"Iet-9R-DRM.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Province"; ObjectID = "JBN-VK-RqB"; */
+"JBN-VK-RqB.text" = "Province";
+
+/* Class = "UILabel"; text = "By clicking sign up above you agree to Pixcell's                                    "; ObjectID = "JIw-DH-EjU"; */
+"JIw-DH-EjU.text" = "By clicking sign up above you agree to Pixcell's                                    ";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "Ke0-ln-YwR"; */
+"Ke0-ln-YwR.text" = "Total";
+
+/* Class = "UILabel"; text = "Change animation style from IB"; ObjectID = "Kk6-CL-pUI"; */
+"Kk6-CL-pUI.text" = "Change animation style from IB";
+
+/* Class = "UIButton"; normalTitle = "Update Password"; ObjectID = "M0p-0w-omD"; */
+"M0p-0w-omD.normalTitle" = "Update Password";
+
+/* Class = "UILabel"; text = "Zip Code"; ObjectID = "MD6-fU-Sbg"; */
+"MD6-fU-Sbg.text" = "Zip Code";
+
+/* Class = "UILabel"; text = "Animate only what you want to animate"; ObjectID = "Nya-aD-fss"; */
+"Nya-aD-fss.text" = "Animate only what you want to animate";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "P3t-WA-bBa"; */
+"P3t-WA-bBa.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pfd-D2-jpv"; */
+"Pfd-D2-jpv.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Q2H-WL-Sax"; */
+"Q2H-WL-Sax.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Search Location"; ObjectID = "S4v-uk-34D"; */
+"S4v-uk-34D.normalTitle" = "Search Location";
+
+/* Class = "UIButton"; normalTitle = "creditcard"; ObjectID = "SEh-A8-xaG"; */
+"SEh-A8-xaG.normalTitle" = "creditcard";
+
+/* Class = "UIButton"; normalTitle = "Proceed"; ObjectID = "Sv8-S8-xXg"; */
+"Sv8-S8-xXg.normalTitle" = "Proceed";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "Svu-hl-dF2"; */
+"Svu-hl-dF2.text" = "Don't have an account?";
+
+/* Class = "UILabel"; text = "Subtotal"; ObjectID = "TP0-1Z-4o9"; */
+"TP0-1Z-4o9.text" = "Subtotal";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "UWt-OJ-uPk"; */
+"UWt-OJ-uPk.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Automatic animations!"; ObjectID = "Uox-wd-LcU"; */
+"Uox-wd-LcU.text" = "Automatic animations!";
+
+/* Class = "UILabel"; text = "Step 1: Delivery Address"; ObjectID = "VRO-mr-gZE"; */
+"VRO-mr-gZE.text" = "Step 1: Delivery Address";
+
+/* Class = "UILabel"; text = "Click this button to choose your photos"; ObjectID = "Whs-cx-Fc9"; */
+"Whs-cx-Fc9.text" = "Click this button to choose your photos";
+
+/* Class = "UILabel"; text = "Fill out the forms below to change your password"; ObjectID = "XIY-Al-s3w"; */
+"XIY-Al-s3w.text" = "Fill out the forms below to change your password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xah-Kv-VDj"; */
+"Xah-Kv-VDj.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "Ys5-bx-f9L"; */
+"Ys5-bx-f9L.placeholder" = "Last Name";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "Z4I-MH-Xnb"; */
+"Z4I-MH-Xnb.title" = "Settings";
+
+/* Class = "UILabel"; text = "إختيار اللغة"; ObjectID = "ZM9-Ak-6aa"; */
+"ZM9-Ak-6aa.text" = "إختيار اللغة";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "Zkk-Ap-8Vz"; */
+"Zkk-Ap-8Vz.title" = "Settings";
+
+/* Class = "UILabel"; text = "Current Password"; ObjectID = "bur-wj-lS8"; */
+"bur-wj-lS8.text" = "Current Password";
+
+/* Class = "UITabBarItem"; title = "Create Album"; ObjectID = "ch4-fy-GAx"; */
+"ch4-fy-GAx.title" = "Create Album";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "dJn-oH-BHY"; */
+"dJn-oH-BHY.normalTitle" = "Sign In";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "dd6-Jk-TsJ"; */
+"dd6-Jk-TsJ.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "Name on Card"; ObjectID = "eWF-br-pz1"; */
+"eWF-br-pz1.text" = "Name on Card";
+
+/* Class = "UILabel"; text = "VAT"; ObjectID = "fIF-fY-CXi"; */
+"fIF-fY-CXi.text" = "VAT";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "fKu-LL-mfV"; */
+"fKu-LL-mfV.title" = "Home";
+
+/* Class = "UIButton"; normalTitle = "Proceed to Payment"; ObjectID = "fjT-ca-znL"; */
+"fjT-ca-znL.normalTitle" = "Proceed to Payment";
+
+/* Class = "UILabel"; text = "Custom animations!"; ObjectID = "gEc-Gl-Ajd"; */
+"gEc-Gl-Ajd.text" = "Custom animations!";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "iz9-B1-Gl3"; */
+"iz9-B1-Gl3.normalTitle" = "Logout";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "jIb-Be-eVB"; */
+"jIb-Be-eVB.text" = "City";
+
+/* Class = "UILabel"; text = "&"; ObjectID = "juO-Tb-OA9"; */
+"juO-Tb-OA9.text" = "&";
+
+/* Class = "UILabel"; text = "Choose Language"; ObjectID = "kP3-90-sv8"; */
+"kP3-90-sv8.text" = "Choose Language";
+
+/* Class = "UILabel"; text = "All the subviews are automatically animated"; ObjectID = "nHx-sp-wYX"; */
+"nHx-sp-wYX.text" = "All the subviews are automatically animated";
+
+/* Class = "UILabel"; text = "Animation styles!"; ObjectID = "nIr-Dc-WbO"; */
+"nIr-Dc-WbO.text" = "Animation styles!";
+
+/* Class = "UIButton"; normalTitle = "Open Paws"; ObjectID = "nrJ-SW-3ke"; */
+"nrJ-SW-3ke.normalTitle" = "Open Paws";
+
+/* Class = "UILabel"; text = "Create you animation style"; ObjectID = "oRF-oe-0Pt"; */
+"oRF-oe-0Pt.text" = "Create you animation style";
+
+/* Class = "UITextView"; text = " "; ObjectID = "oXO-ZI-jzX"; */
+"oXO-ZI-jzX.text" = " ";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "paa-Y1-pIM"; */
+"paa-Y1-pIM.title" = "Account";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "py3-WV-kQH"; */
+"py3-WV-kQH.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "q8d-Xe-8dT"; */
+"q8d-Xe-8dT.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "rEa-Yp-Xt0"; */
+"rEa-Yp-Xt0.title" = "Save";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "so9-Gr-tKo"; */
+"so9-Gr-tKo.text" = "Label";
+
+/* Class = "UILabel"; text = "Step 2: Payment Method"; ObjectID = "ui7-uY-GDG"; */
+"ui7-uY-GDG.text" = "Step 2: Payment Method";
+
+/* Class = "UIButton"; normalTitle = "cash on delivery"; ObjectID = "uuO-by-QwF"; */
+"uuO-by-QwF.normalTitle" = "cash on delivery";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vka-t0-QZx"; */
+"vka-t0-QZx.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "w8T-c4-Nil"; */
+"w8T-c4-Nil.text" = "Label";
+
+/* Class = "UILabel"; text = "+966"; ObjectID = "x6j-D7-txG"; */
+"x6j-D7-txG.text" = "+966";
+
+/* Class = "UILabel"; text = "New Password"; ObjectID = "yZa-SL-574"; */
+"yZa-SL-574.text" = "New Password";
+
+/* Class = "UITabBarItem"; title = "Checkout"; ObjectID = "yZc-6m-hlZ"; */
+"yZc-6m-hlZ.title" = "Checkout";
+
+/* Class = "UILabel"; text = "Use same address as shipping?"; ObjectID = "z7O-Sy-Jur"; */
+"z7O-Sy-Jur.text" = "Use same address as shipping?";

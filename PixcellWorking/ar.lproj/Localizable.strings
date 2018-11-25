@@ -1,0 +1,88 @@
+/* 
+  Localizable.strings
+  PixcellWorking
+
+  Created by Nahar Alamoudi on 11/20/18.
+  Copyright © 2018 Pixcell Inc. All rights reserved.
+*/
+
+/* Account title 1 */
+"Ai" = "معلومات الحساب";
+
+/* Account title 2 */
+"Ah" = "تفاصيل الحساب";
+
+/* Phone# cell */
+"Phone Number" = "رقم الجوال";
+
+/* Password cell */
+"Password" = "كلمة السر";
+
+/* Total Albums cell */
+"Total Albums Ordered" = "مجموع الالبومات المطلوبة";
+
+/* Donations Cell */
+"Total Donations" = "مجموع التبرعات";
+
+/* Settings Title */
+"Settings" = "الإعدادات";
+
+/* Language Cell */
+"Change Language" = "تغير اللغة";
+
+/* Terms Cell */
+"Terms & Conditions" = "الشروط والأحكام";
+
+/* Privacy Cell */
+"Privacy Policy" = "سياسة الخصوصية";
+
+/* Contact Cell */
+"Contact Us" = "اتصل بنا";
+
+/* FAQs Cell */
+"FAQs" = "أسئلة وأجوبة";
+
+/* checkout button nav bar item*/
+"Checkout" = "الدفع";
+
+/* cancel nav bar button */
+"Cancel" = "إلغاء";
+
+// checkout alert notification
+"Checkout alert title" = "الدفع";
+
+// checkout message 
+"Checkout message" = "للدفع الرجاء إختيار الألبوم/الألبومات";
+
+// submit button left bar item
+"Submit" = "التالي";
+
+// proceed button
+"Proceed" = "إستمرار";
+
+// name selection for album
+"Pick a name for your Album" = "فضلا اختيار اسمًا للألبوم";
+
+// album name field
+"Enter Album Name Here" = "أدخل اسم الألبوم هنا";
+
+// confirm button
+"Confirm" = "تأكيد";
+
+// save button
+"Save" = "حفظ";
+
+// nav bar item select images
+"Select Images" = "اختر الصور";
+
+// images selected notification
+"Images Selected" = "الصور المختارة";
+
+// option 1 for images selected nitification
+"Yes I am Sure" = "حفظ";
+
+// option 2 for images selected nitification
+"Return to image picker" = "العودة إلى إختيار الصور";
+
+// // message for images selected notification
+"message for images selected" = "هل أنت متأكد من تحميل الصور المختارة ؟ لا يمكنكم التراجع عن هذا الإجراء إذا ضغطتم حفظ.";
